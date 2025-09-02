@@ -276,8 +276,6 @@ Transform the flat structure into a nested category tree:
 - Handle orphaned categories (categories with invalid parentId)
 - Sort children alphabetically by name
 - Add depth level to each category
-- Implement breadth-first or depth-first traversal methods
-- Performance optimizations (memoization, lookup maps)
 
 ### Real-World Context
 This pattern is commonly used in:
