@@ -1,0 +1,121 @@
+[
+  {
+    "id": 1,
+    "name": "Electronics",
+    "slug": "electronics",
+    "parentId": null,
+    "description": "Electronic devices and gadgets"
+  },
+  {
+    "id": 2,
+    "name": "Computers & Laptops",
+    "slug": "computers-laptops",
+    "parentId": 1,
+    "description": "Desktop computers, laptops, and accessories"
+  },
+  {
+    "id": 3,
+    "name": "Mobile Phones",
+    "slug": "mobile-phones",
+    "parentId": 1,
+    "description": "Smartphones and mobile accessories"
+  },
+  {
+    "id": 4,
+    "name": "Home & Garden",
+    "slug": "home-garden",
+    "parentId": null,
+    "description": "Home improvement and gardening supplies"
+  },
+  {
+    "id": 5,
+    "name": "Laptops",
+    "slug": "laptops",
+    "parentId": 2,
+    "description": "Portable computers and notebooks"
+  },
+  {
+    "id": 6,
+    "name": "Desktop Computers",
+    "slug": "desktop-computers",
+    "parentId": 2,
+    "description": "Desktop PCs and workstations"
+  },
+  {
+    "id": 7,
+    "name": "Smartphones",
+    "slug": "smartphones",
+    "parentId": 3,
+    "description": "Mobile phones with advanced features"
+  },
+  {
+    "id": 8,
+    "name": "Phone Accessories",
+    "slug": "phone-accessories",
+    "parentId": 3,
+    "description": "Cases, chargers, and mobile accessories"
+  },
+  {
+    "id": 9,
+    "name": "Furniture",
+    "slug": "furniture",
+    "parentId": 4,
+    "description": "Home and office furniture"
+  },
+  {
+    "id": 10,
+    "name": "Gaming Laptops",
+    "slug": "gaming-laptops",
+    "parentId": 5,
+    "description": "High-performance laptops for gaming"
+  },
+  {
+    "id": 11,
+    "name": "Business Laptops",
+    "slug": "business-laptops",
+    "parentId": 5,
+    "description": "Professional laptops for business use"
+  },
+  {
+    "id": 12,
+    "name": "Android Phones",
+    "slug": "android-phones",
+    "parentId": 7,
+    "description": "Smartphones running Android OS"
+  },
+  {
+    "id": 13,
+    "name": "iPhones",
+    "slug": "iphones",
+    "parentId": 7,
+    "description": "Apple iPhone devices"
+  },
+  {
+    "id": 14,
+    "name": "Office Chairs",
+    "slug": "office-chairs",
+    "parentId": 9,
+    "description": "Ergonomic chairs for office use"
+  },
+  {
+    "id": 15,
+    "name": "Clothing",
+    "slug": "clothing",
+    "parentId": null,
+    "description": "Apparel and fashion items"
+  },
+  {
+    "id": 16,
+    "name": "Men's Clothing",
+    "slug": "mens-clothing",
+    "parentId": 15,
+    "description": "Clothing items for men"
+  },
+  {
+    "id": 17,
+    "name": "Women's Clothing",
+    "slug": "womens-clothing",
+    "parentId": 15,
+    "description": "Clothing items for women"
+  }
+]
