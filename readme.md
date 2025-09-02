@@ -1,5 +1,5 @@
   # Software Engineering Live Coding Exam
-## Recursive JSON Transformation: Category Tree Builder
+## JSON Transformation: Category Tree Builder
 
 ### Problem Statement
 Transform a flat list of product categories into a nested category tree structure.
