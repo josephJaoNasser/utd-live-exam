@@ -267,10 +267,6 @@ Transform the flat structure into a nested category tree:
 ### Requirements
 1. **Time limit**: 30-45 minutes
 2. **Language**: Any (JavaScript, Python, Java, C#, etc.)
-3. **Key changes from flat structure**:
-   - Remove `parentId` from output objects
-   - Add `children` array to each category
-   - Return array of root categories (multiple top-level categories)
 
 ### Bonus Points
 - Handle orphaned categories (categories with invalid parentId)
